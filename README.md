@@ -9,4 +9,4 @@ I am passionate about web and keep myself busy building websites
 - Backend development using **Node**
 
 ## Nudge me!
-- 💬 Let's speak more about tech and more!
+- 💬 Let's speak about tech and more!
