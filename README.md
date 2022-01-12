@@ -8,5 +8,3 @@ I am passionate about web and keep myself busy building websites
 - Front-end development using **HTML, CSS, JavaScript, React**
 - Backend development using **Node**
 
-## Nudge me!
-- 💬 Let's speak about tech and more!
